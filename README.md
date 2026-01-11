@@ -71,4 +71,5 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 🙏 Acknowledgments
 
-Inspired by the desire for truly private, powerful voice assistants that respect user autonomy.
+Inspired by the desire for truly private, powerful voice assistants that respect user autonomy. And a nod to Bon Scott... My goal is to make her a whole lotta Rosie 🤘
+
